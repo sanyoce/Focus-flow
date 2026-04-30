@@ -1,5 +1,5 @@
 export function Button({ variant, type, onClick, className, disabled, children }){
-    const base = "px-4 py-2 rounded-lg transition"
+    const base = "px-4 py-2 rounded-lg transition bg-gray-300"
 
     const variants = {
         primary: "bg-purple-500 text-white hover:bg-purple-600",
