@@ -1,6 +1,6 @@
 export function Sidebar(){
     return(
-        <div className="flex flex-col justify-between gap-130">
+        <div className="flex flex-col justify-between gap-130 px-8 py-10">
             <div className="flex flex-col gap-12">
                 <div>
                     <h1>Focus-Flow</h1>
